@@ -1,7 +1,7 @@
-import { Footer } from "./components/footer";
-import { Header } from "./components/header";
+import { Footer } from "../components/footer";
+import { Header } from "../components/header";
 
-export default function Home() {
+export default function Contact() {
    return (
       <div className="min-h-screen p-8 pb-2">
          <Header />
